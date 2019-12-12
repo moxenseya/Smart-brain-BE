@@ -1,5 +1,7 @@
-# SmartBrain-api - v2
-Final project for Udemy course
+# SmartBrain-api-Backend
+Final project for Complete Web Developer Udemy course by Andrei Neagoie. This is the backend for the Web app.
+
+To run this app on your local machine:
 
 1. Clone this repo
 2. Run `npm install`
@@ -7,5 +9,3 @@ Final project for Udemy course
 4. You must add your own API key in the `controllers/image.js` file to connect to Clarifai API.
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
-
-** Make sure you use postgreSQL instead of mySQL for this code base.
