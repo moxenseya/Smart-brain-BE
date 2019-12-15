@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/moxenseya/https://githubcom/moxenseya/Smart-brain-BE.svg)](http://hits.dwyl.io/moxenseya/https://githubcom/moxenseya/Smart-brain-BE)
+
 # SmartBrain-api-Backend
 Final project for Complete Web Developer Udemy course by Andrei Neagoie. This is the backend for the Web app.
 
